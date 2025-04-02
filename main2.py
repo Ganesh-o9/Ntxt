@@ -349,7 +349,7 @@ async def account_login(bot: Client, m: Message):
 
 
 
-
+'''
 
 
 @bot.on_message(filters.command(["ziptxt"]) & filters.chat(sudo_groups))
@@ -771,7 +771,7 @@ async def handle_video(bot, m, url, name, b_name, res, caption, thumb_path):
 
 
 
-
+'''
 
 
 
